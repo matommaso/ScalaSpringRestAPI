@@ -1,5 +1,4 @@
-package it.maior.scala.spring.rest
-
+package it.maior.scala.spring.rest.greeting
 
 import java.util.concurrent.atomic.AtomicLong
 import org.springframework.web.bind.annotation.RequestMapping
