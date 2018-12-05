@@ -1,4 +1,4 @@
-package it.maior.scala.spring.rest
+package it.maior.scala.spring.rest.greeting
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
